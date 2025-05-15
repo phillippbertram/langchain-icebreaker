@@ -16,29 +16,16 @@ Ice Breaker is a web application that crawls LinkedIn and Twitter data about a p
 
 ## Prerequisites
 
-Before running the project, ensure you have the following API keys and environment variables set in a `.env` file:
+Before running the project, ensure you have the following API keys and environment variables set in a `.env` file. To do that, simply copy the `.env.example` file to `.env` and fill in the values.
 
-```
-OPENAI_API_KEY
-SCRAPIN_API_KEY
-TAVILY_API_KEY
-TWITTER_API_KEY
-TWITTER_API_SECRET
-TWITTER_ACCESS_TOKEN
-TWITTER_ACCESS_SECRET
-LANGCHAIN_TRACING_V2
-LANGCHAIN_API_KEY
-LANGCHAIN_PROJECT # Optional
-```
-
-> **Note:**
->
-> - This project uses paid API services:
->
->   - [Scrapin.io](https://www.scrapin.io)
->   - Twitter API (paid)
->
-> - If you enable tracing (`LANGCHAIN_TRACING_V2=true`), you must provide a valid `LANGCHAIN_API_KEY`. Without it, the app will throw an error. If you don't need tracing, omit or comment out these variables.
+- > **Note:**
+  >
+  > - This project uses paid API services:
+  >
+  >   - [Proxycurl](https://www.proxycurl.com)
+  >   - Twitter API (paid)
+  >
+  > - If you enable tracing (`LANGCHAIN_TRACING_V2=true`), you must provide a valid `LANGCHAIN_API_KEY`. Without it, the app will throw an error. If you don't need tracing, omit or comment out these variables.
 
 ---
 
@@ -70,6 +57,10 @@ uv sync
 ```bash
 uv run python app.py
 ```
+
+### 5. Open the Application
+
+Open your browser and navigate to `http://localhost:5001` to access the application.
 
 ## License
 
