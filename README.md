@@ -49,29 +49,25 @@ git clone https://github.com/phillippbertram/langchain-icebreaker.git
 cd langchain-icebreaker
 ```
 
-### 2. Install Dependencies
+### 2. Install uv
+
+If you don't have uv installed, you can install it with:
 
 ```bash
-pipenv install
+pip install uv
 ```
 
-### 3. Start the Flask Server
+### 3. Install Dependencies
 
 ```bash
-pipenv run python app.py
+uv sync
 ```
 
----
-
-## Running Tests
-
-To execute the test suite, run:
+### 4. Start the Flask Server
 
 ```bash
-pipenv run pytest .
+uv run python app.py
 ```
-
----
 
 ## License
 
