@@ -10,7 +10,7 @@ Ice Breaker is a web application that crawls LinkedIn and Twitter data about a p
 
 - Scrapes LinkedIn and Twitter profiles for public data
 - Uses AI to craft custom ice breakers based on the gathered information
-- Integrates with OpenAI, Scrapin.io, and Twitter APIs
+- Integrates with OpenAI, Proxycurl, and Twitter APIs
 
 ---
 
