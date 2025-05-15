@@ -1,0 +1,293 @@
+{
+    "public_identifier": "phillipp-bertram",
+    "profile_pic_url": "https://media.licdn.com/dms/image/v2/D4E35AQG1PtZH1zIGxg/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1729527692281?e=1747911600&v=beta&t=EDu0PVBU-uOVpFJiKbQaxIrzIphC-h8pu3-RxX0ir_M",
+    "background_cover_image_url": "https://media.licdn.com/dms/image/v2/D4E16AQGd4oknK3Ja_Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738586205662?e=1752710400&v=beta&t=_NmdUHs8oR54XpLwCoIvocz6hxI-y6gGI9peZ4k09d8",
+    "first_name": "Phillipp",
+    "last_name": "Bertram",
+    "full_name": "Phillipp Bertram",
+    "follower_count": 446,
+    "occupation": "Freelancer | Mobile & Full-Stack Engineer | AWS Architect at Freiberuflich",
+    "headline": "Freelancer | Mobile App & Full-Stack Developer | AWS & Cloud Enthusiast #JustDuIt",
+    "summary": "None",
+    "country": "DE",
+    "country_full_name": "Germany",
+    "city": "Osnabrück",
+    "state": "Lower Saxony",
+    "experiences": [{
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2023
+            },
+            "ends_at": "None",
+            "company": "Freiberuflich",
+            "company_linkedin_profile_url": "None",
+            "company_facebook_profile_url": "None",
+            "title": "Freelancer | Mobile & Full-Stack Engineer | AWS Architect",
+            "description": "As a passionate Full-Stack Developer & Software Architect, I support companies in building modern, scalable digital solutions — from native mobile apps to cloud-based SaaS platforms and AI-powered applications.\n\nWith a strong focus on Mobile Development (iOS, Android, Flutter), Backend & Cloud (AWS, Node.js, Golang), Web Technologies (React, Next.js), and Generative AI (LLMs, Agents), I deliver end-to-end solutions tailored to business needs.\n\nI enjoy collaborating with cross-functional teams, driving projects from concept to production, and ensuring clean architecture, high code quality, and an excellent user experience.\n\n🚀 Latest Projects\n\nMobile Flutter Developer | Sensor Calibration App\nFeb 2025 – Apr 2025\nDeveloped a Flutter-based mobile app for sensor evaluation and calibration via Bluetooth LE. Focused on modern UI/UX design, seamless BLE integration, and performance optimization to ensure long-term maintainability and scalability.\nTech: Flutter, Bluetooth LE, Clean Architecture, UI/UX Design\n\nSoftware Architect & Engineer | Financial Analytics SaaS Platform\nNov 2024 – Jan 2025\nDesigned and built a cloud-native financial analysis platform focused on harmonic pattern detection and trading strategies for stocks, forex, and crypto assets. Delivered a scalable SaaS solution leveraging modern cloud infrastructure.\nTech: AWS, Golang, PostgreSQL, Next.js, TailwindCSS, Auth0, Stripe\n\niOS App Engineer | Smart Home Control System (Albrecht Jung GmbH & Co. KG)\nMay 2023 – Jan 2025\nLed the development of a next-gen Smart Home app using Bluetooth Mesh for seamless IoT device communication. Delivered an intuitive setup and control experience, integrating Firebase for real-time sync and remote management.\nTech: Swift, SwiftUI, Kotlin, BLE, Bluetooth Mesh, Firebase, Tuist, GitLab, Scrum",
+            "location": "None",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2023
+            },
+            "company": "AeroSys AG",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/aerosys",
+            "company_facebook_profile_url": "None",
+            "title": "CTO & Lead Software Architect",
+            "description": "As CTO at AeroSys, I was responsible for the technical development and architecture of an AI-powered co-pilot system designed for aviation. The core product involved developing hardware for Conversational AI in the cockpit, complemented by a Flutter-based Companion App for pilots. My focus was on ensuring robust system architecture, high-quality software development, and seamless AI integration while driving best practices in Quality Assurance, CI/CD, and strategic technology planning.\n\nKey Responsibilities:\n•\tArchitected and developed the AI-powered cockpit system, integrating Conversational AI and real-time data processing\n•\tDesigned and implemented the Companion App using Flutter, enabling pilots to interact with the system seamlessly\n•\tEnsured high software quality through automated testing, code reviews, and Quality Gates\n•\tEstablished CI/CD pipelines for automated deployments and integration testing\n•\tDefined and executed the technology roadmap, focusing on scalability, maintainability, and security\n•\tDeveloped real-time communication protocols between the cockpit system and the Companion App\n•\tImplemented edge computing strategies to process AI-driven interactions efficiently",
+            "location": "Osnabrück, Niedersachsen, Deutschland",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/aerosys/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250515%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250515T102256Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=4a8d574285592cec601fe3fd2396275653bf3a45634e4c3b86d8c6ec87103208"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2021
+            },
+            "company": "KickOn GmbH",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kickon-gmbh",
+            "company_facebook_profile_url": "None",
+            "title": "CTO & Co-Founder, Lead Software Architect",
+            "description": "At KickOn, our vision was to build a comprehensive platform for the hospitality industry, covering everything from user engagement and payments to web presence and integration with POS (Point-of-Sale) and inventory management systems. As CTO and co-founder, I was responsible for the technical concept and implementation, ensuring a scalable and efficient architecture.\n\nKey Responsibilities:\n•\tDesigned and implemented the platform architecture, ensuring scalability and reliability\n•\tDeveloped the web application using React, Next.js, and TypeScript, providing a seamless experience for businesses and customers\n•\tBuilt a Flutter-based mobile app for real-time interactions and user engagement\n•\tDeveloped the backend with Node.js and TypeScript, ensuring secure and fast data processing\n•\tIntegrated AWS services for hosting, authentication, and cloud infrastructure\n•\tEstablished best practices for development, including CI/CD pipelines, automated testing, and security guidelines",
+            "location": "Osnabrück und Umgebung, Deutschland",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/kickon-gmbh/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250515%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250515T102256Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=91847eef0e30eabafc5d91f1e551f2ca4eb6b01654658a25abf26b8c3566d191"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2021
+            },
+            "company": "slashwhy",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/slashwhy",
+            "company_facebook_profile_url": "None",
+            "title": "Software Engineer (Mobile Apps)",
+            "description": "As a Software Engineer at slashwhy (formerly SALT AND PEPPER Software GmbH & Co. KG), I worked on developing mobile applications for iOS and Android, as well as backend solutions. I focused on Flutter, Swift, Kotlin, Xamarin, delivering scalable and user-friendly applications.\n\nKey Responsibilities:\n•\tDeveloped iOS and Android apps using Swift, Kotlin & Flutter\n•\tWorked on IoT and AgTech and Consumer-Electronics projects, building software for connected devices\n•\tCollaborated closely with UX/UI designers to enhance user experience",
+            "location": "Osnabrück, Niedersachsen, Deutschland",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/slashwhy/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250515%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250515T102256Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d74ea723dade3ae529c8f5908fdd6957e7f4af2e838fcfb2765884d78ed7a4e2"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "LMIS AG",
+            "company_linkedin_profile_url": "None",
+            "company_facebook_profile_url": "None",
+            "title": "Head of Mobile Application Development & Software Enginneer for Mobile Apps",
+            "description": "As Head of Mobile Application Development at LMIS, I led a team developing mobile applications for various industries and clients, delivering tailored solutions across enterprise, consumer, and industrial sectors. While managing the team, I was also actively involved in software development, working on both native (iOS & Android) and cross-platform (Flutter) applications.\n\n\nKey Responsibilities:\n•\tDeveloped and led mobile projects for clients across multiple industries, including logistics, healthcare, and automotive\n•\tBuilt native iOS apps with Swift and Objective-C, and Android apps with Kotlin and Java\n•\tDesigned and implemented cross-platform mobile applications using Flutter\n•\tEnsured high performance and scalability by implementing best practices in mobile development\n•\tWorked closely with clients, designers, and backend teams to deliver user-centric applications\n•\tEstablished CI/CD pipelines for mobile development, improving deployment and update processes\n•\tDefined mobile technology strategies, helping clients choose the best approach for their applications",
+            "location": "Germany",
+            "logo_url": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2015
+            },
+            "company": "LMIS AG",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/lmis-ag",
+            "company_facebook_profile_url": "None",
+            "title": "Software Engineer & Consultant",
+            "description": "- Initially focused on Java EE development and maintenance\n- Later specialized in mobile app development for iOS (Objective-C, Swift) and Android (Java)\n- Designed and implemented custom mobile solutions for various clients and industries\n- Provided consulting and technical guidance on mobile strategies and architectures\n- Collaborated closely with design and product teams to develop user-friendly and high-performance applications\n- Optimized existing apps for performance, UX, and code quality\n- Acted as a consultant in external teams to help build and scale their mobile applications",
+            "location": "Osnabrück, Niedersachsen, Deutschland",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/lmis-ag/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250515%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250515T102256Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=832b91ca6762e30e1ac719bb77d06af6f976ebfd19e4544f5152d3a0173d122c"
+        }
+    ],
+    "education": [{
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "field_of_study": "Informatik und BWL",
+            "degree_name": "Master of Science - MS",
+            "school": "Universität Osnabrück",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/45458/",
+            "school_facebook_profile_url": "None",
+            "description": "None",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/osnabrueck-university/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250515%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250515T102256Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8af2d9f5d71393e91d5794d0a19db97ad13db9407d113faad4c922a05e585054",
+            "grade": "None",
+            "activities_and_societies": "None"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": "Physik mit Informatik",
+            "degree_name": "Bachelor of Science - BS",
+            "school": "Universität Osnabrück",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/45458/",
+            "school_facebook_profile_url": "None",
+            "description": "None",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/osnabrueck-university/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250515%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250515T102256Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8af2d9f5d71393e91d5794d0a19db97ad13db9407d113faad4c922a05e585054",
+            "grade": "None",
+            "activities_and_societies": "None"
+        }
+    ],
+    "languages": [
+
+    ],
+    "languages_and_proficiencies": [
+
+    ],
+    "accomplishment_organisations": [
+
+    ],
+    "accomplishment_publications": [
+
+    ],
+    "accomplishment_honors_awards": [
+
+    ],
+    "accomplishment_patents": [
+
+    ],
+    "accomplishment_courses": [
+
+    ],
+    "accomplishment_projects": [
+
+    ],
+    "accomplishment_test_scores": [
+
+    ],
+    "volunteer_work": [
+
+    ],
+    "certifications": [{
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2025
+            },
+            "name": "AWS Certified Cloud Practitioner",
+            "license_number": "None",
+            "display_source": "credly.com",
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/66e00c35-0b9a-43af-9dd0-309e6905081a?source=linked_in_profile"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2027
+            },
+            "name": "AWS Certified Solutions Architect – Associate",
+            "license_number": "None",
+            "display_source": "credly.com",
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/074a674c-29c4-4153-abcb-2a5de64a0fbe/linked_in_profile"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2025
+            },
+            "ends_at": "None",
+            "name": "AWS Certified AI Practitioner Early Adopter",
+            "license_number": "None",
+            "display_source": "credly.com",
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/025bf5f5-43cc-4db7-8170-b733b54cbb25/public_url"
+        }
+    ],
+    "connections": 419,
+    "people_also_viewed": [
+
+    ],
+    "recommendations": [
+        "Andreas Klassen\n\n\n\nPhillipp war über 2 Jahre eine echte Bereicherung für unser Projekt. \nEr denkt nicht nur in sauberen Codezeilen, sondern hat immer auch das große Ganze im Blick – wechselt spielend zwischen Architektur-Level und tiefem Eintauchen in die Details, wenn’s drauf ankommt!\n\nSeine Arbeitsweise ist professionell und strukturiert, dabei aber nie verkopft: \nWenn schnelle, pragmatische Lösungen gebraucht wurden, war Phillipp sofort hands-on zur Stelle.\nWas ihn besonders auszeichnet, ist seine starke Kommunikation und Teamfähigkeit – er stimmt sich eng mit anderen ab, bringt komplexe Themen verständlich auf den Punkt und schafft so echten Mehrwert für das gesamte Team. \n\nEr denkt voraus, übernimmt Verantwortung und geht immer die Extra-Meile, wenn’s nötig ist. Dank seines Engagements konnten wir sehr relevante und komplexe Features und diverse App-Releases erfolgreich umsetzen und die Codebasis durch Refactoring deutlich verbessern.\n\nKurz gesagt: Phillipp ist nicht nur technisch stark, sondern auch ein absoluter Teamplayer und Macher, der Projekte wirklich nach vorne bringt! Ein Gewinn für jedes Projekt!",
+        "Waldemar W.\n\n\n\nIch hatte das große Glück, mit Phillipp bei der LMIS AG zusammenzuarbeiten, wo er als Head of Mobile Application Development tätig war. In dieser Zeit habe ich ihn als äußerst kompetenten, engagierten und empathischen Kollegen kennengelernt.\n\nPhillipp denkt und handelt als echter Teamplayer. Er hört zu, unterstützt aktiv und teilt sein Wissen mit großem Engagement. Durch seine klare Kommunikation und seine Geduld hat er unser Team in Themen wie Architektur, Programmierung und Projektarbeit nachhaltig weiterentwickelt. Fachlich und menschlich war er für uns alle ein Vorbild.\n\nIch bin sehr dankbar, Teil seines Teams gewesen zu sein. Wer mit Phillipp arbeitet, gewinnt einen echten Profi und einen wertvollen Kollegen.\n\nKlare Empfehlung."
+    ],
+    "activities": [
+
+    ],
+    "similarly_named_profiles": [
+
+    ],
+    "articles": [
+
+    ],
+    "groups": [{
+            "profile_pic_url": "https://media.licdn.com/dms/image/v2/C4D07AQETM_KfeMEQbw/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631369382865?e=1747911600&v=beta&t=-WaGyOFNIDXRIxfLvwWcR3YH_ts-1XGbUP5GL2y1zzk",
+            "name": "Amazon AWS Architects",
+            "url": "https://www.linkedin.com/groups/4387417"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/v2/C4D07AQG8Vd6LWUE0Gw/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631004597306?e=1747911600&v=beta&t=iraBoTPOqlrN889Cso6ebFF_P9Es4BJOwcsDG7GboUk",
+            "name": "AWS Cloud Computing (For Interested Parties & Users)",
+            "url": "https://www.linkedin.com/groups/4658452"
+        }
+    ],
+    "skills": [
+
+    ],
+    "inferred_salary": "None",
+    "gender": "None",
+    "birth_date": "None",
+    "industry": "None",
+    "extra": "None",
+    "interests": [
+
+    ],
+    "personal_emails": [
+
+    ],
+    "personal_numbers": [
+
+    ]
+}
