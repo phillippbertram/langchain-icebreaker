@@ -2,6 +2,8 @@
 
 Ice Breaker is a web application that crawls LinkedIn and Twitter data about a person to generate personalized ice breakers for networking and outreach.
 
+![Screenshot](docs/screenshot.png)
+
 ---
 
 ## Features
