@@ -1,10 +1,10 @@
+from dotenv import load_dotenv
+from langchain import hub
+from langchain.agents import AgentExecutor, create_react_agent
 from langchain_core.prompts import PromptTemplate
 from langchain_core.tools import Tool
 from langchain_openai import ChatOpenAI
-from langchain import hub
-from langchain.agents import create_react_agent, AgentExecutor
 
-from dotenv import load_dotenv
 from tools.tools import get_profile_url_tavily
 
 load_dotenv()

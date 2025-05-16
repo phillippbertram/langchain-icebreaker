@@ -1,11 +1,10 @@
-from flask import Flask, render_template, request, jsonify
 from dotenv import load_dotenv
+from flask import Flask, jsonify, render_template, request
 from flask_cors import CORS
 
 load_dotenv()
 
 from ice_breaker import ice_break_with
-
 
 app = Flask(__name__)
 CORS(app, origins="*")

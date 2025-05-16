@@ -1,18 +1,12 @@
 from typing import Tuple
+
 from agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
 from agents.twitter_lookup_agent import lookup as twitter_lookup_agent
-from chains.custom_chains import (
-    get_summary_chain,
-    get_interests_chain,
-    get_ice_breaker_chain,
-)
+from chains.custom_chains import (get_ice_breaker_chain, get_interests_chain,
+                                  get_summary_chain)
+from output_parsers import IceBreaker, Summary, TopicOfInterest
 from third_parties.linkedin import scrape_linkedin_profile
 from third_parties.twitter import scrape_user_tweets, scrape_user_tweets_mock
-from output_parsers import (
-    Summary,
-    IceBreaker,
-    TopicOfInterest,
-)
 
 
 def ice_break_with(

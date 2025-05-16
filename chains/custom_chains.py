@@ -2,8 +2,8 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.runnables import RunnableSequence
 from langchain_openai import ChatOpenAI
 
-
-from output_parsers import summary_parser, ice_breaker_parser, topics_of_interest_parser
+from output_parsers import (ice_breaker_parser, summary_parser,
+                            topics_of_interest_parser)
 
 llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
 llm_creative = ChatOpenAI(temperature=1, model_name="gpt-3.5-turbo")

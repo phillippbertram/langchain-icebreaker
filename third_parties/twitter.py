@@ -1,7 +1,8 @@
 import os
-from dotenv import load_dotenv
-import tweepy
+
 import requests
+import tweepy
+from dotenv import load_dotenv
 
 load_dotenv()
 
