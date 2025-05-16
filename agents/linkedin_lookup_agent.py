@@ -14,7 +14,7 @@ from tools.tools import get_profile_url_tavily
 load_dotenv()
 
 
-def lookup(name: str) -> str:
+def lookup(name: str, mock: bool = False) -> str:
     llm = ChatOpenAI(
         temperature=0,
         model_name="gpt-4o-mini",

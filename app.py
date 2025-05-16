@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, jsonify
 from dotenv import load_dotenv
+from flask_cors import CORS
 
 load_dotenv()
 
@@ -7,6 +8,7 @@ from ice_breaker import ice_break_with
 
 
 app = Flask(__name__)
+CORS(app, origins="*")
 
 
 @app.route("/")
@@ -16,9 +18,10 @@ def index():
 
 @app.route("/process", methods=["POST"])
 def process():
-    name = request.form["name"]
+    name = request.json["name"]
     summary_and_facts, interests, ice_breakers, profile_pic_url = ice_break_with(
-        name=name
+        name=name,
+        mock=True,
     )
     return jsonify(
         {
